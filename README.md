@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * [Scrapbox](https://scrapbox.io/xorphitus/)
 * [Speaker Deck](https://speakerdeck.com/xorphitus)
 
-### Contributions
+### Main Contributions
 
 * https://github.com/remacs/remacs/pull/1545
 * https://github.com/kayac/go-katsubushi/pull/29
