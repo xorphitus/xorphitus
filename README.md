@@ -1,4 +1,4 @@
-### Hi there 👋
+### Experience
 
 <!--
 **xorphitus/xorphitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* IoT gateway engineer
+* TypeScript + React frontend engineer
+* Cryptocurrency service SRE - infrastructure security practice
+* Social game SRE - high traffic service practice
+* Web service architect
+* Ruby on Rails server side engineer
+* Project manager
+
+### Links
+
+* [Twitter](https://twitter.com/xorphitus)
+* [Medium](https://medium.com/@xorphitus)
+* [Scrapbox](https://scrapbox.io/xorphitus/)
+* [Speaker Deck](https://speakerdeck.com/xorphitus)
