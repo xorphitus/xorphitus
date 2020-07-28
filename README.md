@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ### Links
 
-* [Twitter](https://twitter.com/xorphitus)
-* [Medium](https://medium.com/@xorphitus)
-* [Diary (on Scrapbox)](https://scrapbox.io/xorphitus/diary)
-* [Speaker Deck](https://speakerdeck.com/xorphitus)
+* [🐦 Twitter](https://twitter.com/xorphitus)
+* [📖 Medium](https://medium.com/@xorphitus)
+* [✎ Diary (on Scrapbox)](https://scrapbox.io/xorphitus/diary)
+* [📢 Speaker Deck](https://speakerdeck.com/xorphitus)
 
 ### Main Contributions
 
