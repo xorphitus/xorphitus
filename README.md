@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* Data store backend engineer
 * IoT gateway engineer
 * TypeScript + React frontend engineer
 * Cryptocurrency service SRE - infrastructure security practice
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 * Project manager
 
 ### Links
+*Inactive*
 
 * [🐦 Twitter](https://twitter.com/xorphitus)
 * [📖 Medium](https://medium.com/@xorphitus)
@@ -32,5 +34,7 @@ Here are some ideas to get you started:
 
 ### Main Contributions
 
+* https://github.com/InfluxCommunity/influxdb3-go/pull/86
 * https://github.com/remacs/remacs/pull/1545
 * https://github.com/kayac/go-katsubushi/pull/29
+* https://git.kernel.org/pub/scm/linux/kernel/git/bluetooth/bluetooth-next.git/commit/?id=b8ddc3b14c7a
